@@ -6,4 +6,4 @@
 * [Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [Iconos](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
-* [Symbols]([https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols))
+* [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
